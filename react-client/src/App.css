@@ -8,7 +8,11 @@ body {
 
 .polar,
 .scatter,
-.bar {
-  width: 40rem;
-  margin: 2rem;
+svg {
+  margin: 1rem;
 }
+
+.polar,
+.scatter {
+  width: 20rem;
+} 
