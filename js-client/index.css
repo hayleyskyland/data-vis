@@ -5,6 +5,7 @@
     text-align: center;
     width: 100%;
     height: 226px;
+    font-family: Arial;
 }
 
 .barchart tr:nth-child(1) td {
@@ -13,16 +14,17 @@
 }
 
 .barchart .bar {
-    background: #0d4aa5;
+    background: teal;
     padding: 10px 2px 0;
 }
 
 .barchart .label {
     background-color: black;
     margin-top: -30px;
-    padding: 0 3px;
+    padding: 0.1px 5px;
     color: white;
     border-radius: 4px;
+    background: gray;
 }
 
 .minwidth {
