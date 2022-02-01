@@ -51,7 +51,7 @@ const data = [{
 
 const width = 360;
 const height = 300;
-const margin = { top: 20, bottom: 20, left: 20, right: 20 };
+const margin = { top: 20, bottom: 20, left: 20, right: 0 };
 const xMax = width - margin.left - margin.right;
 const yMax = height - margin.top - margin.bottom;
 
