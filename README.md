@@ -4,7 +4,7 @@ This is an example project from an [O'Reilly live training course](https://learn
 
 ## Deployment
 
-* [Vanilla JavaScript Project](https://hwitherellskyland.github.io/data-vis/js-client/) 
+* [Vanilla JavaScript Project](https://hayleyw7.github.io/data-vis/js-client/) 
 * [React JavaScript Project](https://data-vis-react.surge.sh/) 
 
 ## See also
